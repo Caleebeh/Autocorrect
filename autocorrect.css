@@ -2,6 +2,7 @@
 
 body {
     margin: 0 0;
+    padding: 12px 76px;
 }
 
 ::-webkit-scrollbar {
@@ -31,4 +32,14 @@ a, p {
 pre, code {
     font-family: 'Source Code Pro', monospace;
     font-weight: 400;
+}
+
+.link {
+    color: #333333;
+    transition: 0.2s ease-in-out;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: #2DE1C2;
 }
