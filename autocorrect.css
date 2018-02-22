@@ -2,7 +2,7 @@
 
 body {
     margin: 0 0;
-    padding: 12px 76px;
+    padding: 24px 76px;
 }
 
 ::-webkit-scrollbar {
@@ -46,5 +46,10 @@ pre, code {
 
 .divider {
     background: linear-gradient(135deg, #2DE1C2, #119DA4);
-    min-hight: 16px; height: 16px;
+    min-hight: 12px; height: 12px;
+    margin: 6px 0px;
+}
+
+#sub1 {
+    margin-top: -14px;
 }
