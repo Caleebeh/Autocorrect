@@ -43,3 +43,8 @@ pre, code {
 .link:hover {
     color: #2DE1C2;
 }
+
+.divider {
+    background: linear-gradient(135deg, #2DE1C2, #119DA4);
+    min-hight: 16px;
+}
